@@ -1,5 +1,5 @@
 html{
-    font-size: 62.5%;
+    font-size: 100%;
 }
 
 .container-box{
@@ -27,11 +27,11 @@ h6{
 
 @media (max-width: 768px){
     html{
-        font-size: 50%;
+        font-size: 62.5%;
     }
 }
 @media (max-width: 500px){
     html{
-        font-size: 30%;
+        font-size: 50%;
     }
 }
