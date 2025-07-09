@@ -1,6 +1,11 @@
 html{
     font-size: 100%;
 }
+.title{
+    background-color: gray;
+    color: white;
+    padding: 3rem;
+}
 
 .container-box{
     margin: 5%;
